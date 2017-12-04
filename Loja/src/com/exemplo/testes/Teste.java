@@ -16,10 +16,10 @@ public class Teste {
 
 
 		
-		/*listar(repositorioCliente);*/
+		listar(repositorioCliente);
 	/*	atualizar(repositorioCliente, 1);*/
 	/*	novoCliente(repositorioCliente);*/
-		remover(repositorioCliente, 3);
+		/*remover(repositorioCliente, 3);*/
 
 
 	}
