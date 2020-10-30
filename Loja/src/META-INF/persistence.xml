@@ -12,7 +12,7 @@
 			<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
 			<property name="hibernate.connection.url" value="jdbc:mysql://localhost/loja" /><!-- banco de dados, nome Loja -->
 			<property name="hibernate.connection.user" value="root" /><!-- usuario administrador do banco -->
-			<property name="hibernate.connection.password" value="Mt@789456123" /><!-- senha administrador do banco -->
+			<property name="hibernate.connection.password" value="root" /><!-- senha administrador do banco -->
 <!--             <property name="hibernate.hbm2ddl.auto" value="create" /> -->
             <property name="hibernate.hbm2ddl.auto" value="update"/> <!-- atualiza ou cria a tabela inexistente -->
  
